@@ -1,0 +1,14 @@
+C:\Users\B09S305est\source\repos\1.parcial1_walter_arias\bin\Debug\net8.0\1.parcial1_walter_arias.exe
+C:\Users\B09S305est\source\repos\1.parcial1_walter_arias\bin\Debug\net8.0\1.parcial1_walter_arias.deps.json
+C:\Users\B09S305est\source\repos\1.parcial1_walter_arias\bin\Debug\net8.0\1.parcial1_walter_arias.runtimeconfig.json
+C:\Users\B09S305est\source\repos\1.parcial1_walter_arias\bin\Debug\net8.0\1.parcial1_walter_arias.dll
+C:\Users\B09S305est\source\repos\1.parcial1_walter_arias\bin\Debug\net8.0\1.parcial1_walter_arias.pdb
+C:\Users\B09S305est\source\repos\1.parcial1_walter_arias\obj\Debug\net8.0\1.parcial1_walter_arias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S305est\source\repos\1.parcial1_walter_arias\obj\Debug\net8.0\1.parcial1_walter_arias.AssemblyInfoInputs.cache
+C:\Users\B09S305est\source\repos\1.parcial1_walter_arias\obj\Debug\net8.0\1.parcial1_walter_arias.AssemblyInfo.cs
+C:\Users\B09S305est\source\repos\1.parcial1_walter_arias\obj\Debug\net8.0\1.parcial1_walter_arias.csproj.CoreCompileInputs.cache
+C:\Users\B09S305est\source\repos\1.parcial1_walter_arias\obj\Debug\net8.0\1.parcial1_walter_arias.dll
+C:\Users\B09S305est\source\repos\1.parcial1_walter_arias\obj\Debug\net8.0\refint\1.parcial1_walter_arias.dll
+C:\Users\B09S305est\source\repos\1.parcial1_walter_arias\obj\Debug\net8.0\1.parcial1_walter_arias.pdb
+C:\Users\B09S305est\source\repos\1.parcial1_walter_arias\obj\Debug\net8.0\1.parcial1_walter_arias.genruntimeconfig.cache
+C:\Users\B09S305est\source\repos\1.parcial1_walter_arias\obj\Debug\net8.0\ref\1.parcial1_walter_arias.dll

@@ -1,0 +1,14 @@
+C:\Users\Walter\source\repos\14.Rango\bin\Debug\net8.0\14.Rango.exe
+C:\Users\Walter\source\repos\14.Rango\bin\Debug\net8.0\14.Rango.deps.json
+C:\Users\Walter\source\repos\14.Rango\bin\Debug\net8.0\14.Rango.runtimeconfig.json
+C:\Users\Walter\source\repos\14.Rango\bin\Debug\net8.0\14.Rango.dll
+C:\Users\Walter\source\repos\14.Rango\bin\Debug\net8.0\14.Rango.pdb
+C:\Users\Walter\source\repos\14.Rango\obj\Debug\net8.0\14.Rango.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter\source\repos\14.Rango\obj\Debug\net8.0\14.Rango.AssemblyInfoInputs.cache
+C:\Users\Walter\source\repos\14.Rango\obj\Debug\net8.0\14.Rango.AssemblyInfo.cs
+C:\Users\Walter\source\repos\14.Rango\obj\Debug\net8.0\14.Rango.csproj.CoreCompileInputs.cache
+C:\Users\Walter\source\repos\14.Rango\obj\Debug\net8.0\14.Rango.dll
+C:\Users\Walter\source\repos\14.Rango\obj\Debug\net8.0\refint\14.Rango.dll
+C:\Users\Walter\source\repos\14.Rango\obj\Debug\net8.0\14.Rango.pdb
+C:\Users\Walter\source\repos\14.Rango\obj\Debug\net8.0\14.Rango.genruntimeconfig.cache
+C:\Users\Walter\source\repos\14.Rango\obj\Debug\net8.0\ref\14.Rango.dll

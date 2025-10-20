@@ -1,0 +1,14 @@
+C:\Users\Walter\source\repos\3.impuestos\bin\Debug\net8.0\3.impuestos.exe
+C:\Users\Walter\source\repos\3.impuestos\bin\Debug\net8.0\3.impuestos.deps.json
+C:\Users\Walter\source\repos\3.impuestos\bin\Debug\net8.0\3.impuestos.runtimeconfig.json
+C:\Users\Walter\source\repos\3.impuestos\bin\Debug\net8.0\3.impuestos.dll
+C:\Users\Walter\source\repos\3.impuestos\bin\Debug\net8.0\3.impuestos.pdb
+C:\Users\Walter\source\repos\3.impuestos\obj\Debug\net8.0\3.impuestos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter\source\repos\3.impuestos\obj\Debug\net8.0\3.impuestos.AssemblyInfoInputs.cache
+C:\Users\Walter\source\repos\3.impuestos\obj\Debug\net8.0\3.impuestos.AssemblyInfo.cs
+C:\Users\Walter\source\repos\3.impuestos\obj\Debug\net8.0\3.impuestos.csproj.CoreCompileInputs.cache
+C:\Users\Walter\source\repos\3.impuestos\obj\Debug\net8.0\3.impuestos.dll
+C:\Users\Walter\source\repos\3.impuestos\obj\Debug\net8.0\refint\3.impuestos.dll
+C:\Users\Walter\source\repos\3.impuestos\obj\Debug\net8.0\3.impuestos.pdb
+C:\Users\Walter\source\repos\3.impuestos\obj\Debug\net8.0\3.impuestos.genruntimeconfig.cache
+C:\Users\Walter\source\repos\3.impuestos\obj\Debug\net8.0\ref\3.impuestos.dll

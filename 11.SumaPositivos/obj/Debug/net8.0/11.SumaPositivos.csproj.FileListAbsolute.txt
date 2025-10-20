@@ -1,0 +1,14 @@
+C:\Users\Walter\source\repos\11.SumaPositivos\bin\Debug\net8.0\11.SumaPositivos.exe
+C:\Users\Walter\source\repos\11.SumaPositivos\bin\Debug\net8.0\11.SumaPositivos.deps.json
+C:\Users\Walter\source\repos\11.SumaPositivos\bin\Debug\net8.0\11.SumaPositivos.runtimeconfig.json
+C:\Users\Walter\source\repos\11.SumaPositivos\bin\Debug\net8.0\11.SumaPositivos.dll
+C:\Users\Walter\source\repos\11.SumaPositivos\bin\Debug\net8.0\11.SumaPositivos.pdb
+C:\Users\Walter\source\repos\11.SumaPositivos\obj\Debug\net8.0\11.SumaPositivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter\source\repos\11.SumaPositivos\obj\Debug\net8.0\11.SumaPositivos.AssemblyInfoInputs.cache
+C:\Users\Walter\source\repos\11.SumaPositivos\obj\Debug\net8.0\11.SumaPositivos.AssemblyInfo.cs
+C:\Users\Walter\source\repos\11.SumaPositivos\obj\Debug\net8.0\11.SumaPositivos.csproj.CoreCompileInputs.cache
+C:\Users\Walter\source\repos\11.SumaPositivos\obj\Debug\net8.0\11.SumaPositivos.dll
+C:\Users\Walter\source\repos\11.SumaPositivos\obj\Debug\net8.0\refint\11.SumaPositivos.dll
+C:\Users\Walter\source\repos\11.SumaPositivos\obj\Debug\net8.0\11.SumaPositivos.pdb
+C:\Users\Walter\source\repos\11.SumaPositivos\obj\Debug\net8.0\11.SumaPositivos.genruntimeconfig.cache
+C:\Users\Walter\source\repos\11.SumaPositivos\obj\Debug\net8.0\ref\11.SumaPositivos.dll

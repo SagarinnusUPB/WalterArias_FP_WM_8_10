@@ -1,0 +1,14 @@
+C:\Users\Walter\source\repos\7.TresNumeros\bin\Debug\net8.0\7.TresNumeros.exe
+C:\Users\Walter\source\repos\7.TresNumeros\bin\Debug\net8.0\7.TresNumeros.deps.json
+C:\Users\Walter\source\repos\7.TresNumeros\bin\Debug\net8.0\7.TresNumeros.runtimeconfig.json
+C:\Users\Walter\source\repos\7.TresNumeros\bin\Debug\net8.0\7.TresNumeros.dll
+C:\Users\Walter\source\repos\7.TresNumeros\bin\Debug\net8.0\7.TresNumeros.pdb
+C:\Users\Walter\source\repos\7.TresNumeros\obj\Debug\net8.0\7.TresNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter\source\repos\7.TresNumeros\obj\Debug\net8.0\7.TresNumeros.AssemblyInfoInputs.cache
+C:\Users\Walter\source\repos\7.TresNumeros\obj\Debug\net8.0\7.TresNumeros.AssemblyInfo.cs
+C:\Users\Walter\source\repos\7.TresNumeros\obj\Debug\net8.0\7.TresNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Walter\source\repos\7.TresNumeros\obj\Debug\net8.0\7.TresNumeros.dll
+C:\Users\Walter\source\repos\7.TresNumeros\obj\Debug\net8.0\refint\7.TresNumeros.dll
+C:\Users\Walter\source\repos\7.TresNumeros\obj\Debug\net8.0\7.TresNumeros.pdb
+C:\Users\Walter\source\repos\7.TresNumeros\obj\Debug\net8.0\7.TresNumeros.genruntimeconfig.cache
+C:\Users\Walter\source\repos\7.TresNumeros\obj\Debug\net8.0\ref\7.TresNumeros.dll

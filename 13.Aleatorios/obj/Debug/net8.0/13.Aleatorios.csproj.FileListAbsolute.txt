@@ -1,0 +1,14 @@
+C:\Users\Walter\source\repos\13.Aleatorios\bin\Debug\net8.0\13.Aleatorios.exe
+C:\Users\Walter\source\repos\13.Aleatorios\bin\Debug\net8.0\13.Aleatorios.deps.json
+C:\Users\Walter\source\repos\13.Aleatorios\bin\Debug\net8.0\13.Aleatorios.runtimeconfig.json
+C:\Users\Walter\source\repos\13.Aleatorios\bin\Debug\net8.0\13.Aleatorios.dll
+C:\Users\Walter\source\repos\13.Aleatorios\bin\Debug\net8.0\13.Aleatorios.pdb
+C:\Users\Walter\source\repos\13.Aleatorios\obj\Debug\net8.0\13.Aleatorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter\source\repos\13.Aleatorios\obj\Debug\net8.0\13.Aleatorios.AssemblyInfoInputs.cache
+C:\Users\Walter\source\repos\13.Aleatorios\obj\Debug\net8.0\13.Aleatorios.AssemblyInfo.cs
+C:\Users\Walter\source\repos\13.Aleatorios\obj\Debug\net8.0\13.Aleatorios.csproj.CoreCompileInputs.cache
+C:\Users\Walter\source\repos\13.Aleatorios\obj\Debug\net8.0\13.Aleatorios.dll
+C:\Users\Walter\source\repos\13.Aleatorios\obj\Debug\net8.0\refint\13.Aleatorios.dll
+C:\Users\Walter\source\repos\13.Aleatorios\obj\Debug\net8.0\13.Aleatorios.pdb
+C:\Users\Walter\source\repos\13.Aleatorios\obj\Debug\net8.0\13.Aleatorios.genruntimeconfig.cache
+C:\Users\Walter\source\repos\13.Aleatorios\obj\Debug\net8.0\ref\13.Aleatorios.dll

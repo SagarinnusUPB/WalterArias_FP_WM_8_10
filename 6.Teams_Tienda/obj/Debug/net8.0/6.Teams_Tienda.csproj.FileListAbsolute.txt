@@ -1,0 +1,14 @@
+C:\Users\Walter\source\repos\6.Teams_Tienda\bin\Debug\net8.0\6.Teams_Tienda.exe
+C:\Users\Walter\source\repos\6.Teams_Tienda\bin\Debug\net8.0\6.Teams_Tienda.deps.json
+C:\Users\Walter\source\repos\6.Teams_Tienda\bin\Debug\net8.0\6.Teams_Tienda.runtimeconfig.json
+C:\Users\Walter\source\repos\6.Teams_Tienda\bin\Debug\net8.0\6.Teams_Tienda.dll
+C:\Users\Walter\source\repos\6.Teams_Tienda\bin\Debug\net8.0\6.Teams_Tienda.pdb
+C:\Users\Walter\source\repos\6.Teams_Tienda\obj\Debug\net8.0\6.Teams_Tienda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter\source\repos\6.Teams_Tienda\obj\Debug\net8.0\6.Teams_Tienda.AssemblyInfoInputs.cache
+C:\Users\Walter\source\repos\6.Teams_Tienda\obj\Debug\net8.0\6.Teams_Tienda.AssemblyInfo.cs
+C:\Users\Walter\source\repos\6.Teams_Tienda\obj\Debug\net8.0\6.Teams_Tienda.csproj.CoreCompileInputs.cache
+C:\Users\Walter\source\repos\6.Teams_Tienda\obj\Debug\net8.0\6.Teams_Tienda.dll
+C:\Users\Walter\source\repos\6.Teams_Tienda\obj\Debug\net8.0\refint\6.Teams_Tienda.dll
+C:\Users\Walter\source\repos\6.Teams_Tienda\obj\Debug\net8.0\6.Teams_Tienda.pdb
+C:\Users\Walter\source\repos\6.Teams_Tienda\obj\Debug\net8.0\6.Teams_Tienda.genruntimeconfig.cache
+C:\Users\Walter\source\repos\6.Teams_Tienda\obj\Debug\net8.0\ref\6.Teams_Tienda.dll

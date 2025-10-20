@@ -1,0 +1,14 @@
+C:\Users\Walter\source\repos\10.factorial\bin\Debug\net8.0\10.factorial.exe
+C:\Users\Walter\source\repos\10.factorial\bin\Debug\net8.0\10.factorial.deps.json
+C:\Users\Walter\source\repos\10.factorial\bin\Debug\net8.0\10.factorial.runtimeconfig.json
+C:\Users\Walter\source\repos\10.factorial\bin\Debug\net8.0\10.factorial.dll
+C:\Users\Walter\source\repos\10.factorial\bin\Debug\net8.0\10.factorial.pdb
+C:\Users\Walter\source\repos\10.factorial\obj\Debug\net8.0\10.factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter\source\repos\10.factorial\obj\Debug\net8.0\10.factorial.AssemblyInfoInputs.cache
+C:\Users\Walter\source\repos\10.factorial\obj\Debug\net8.0\10.factorial.AssemblyInfo.cs
+C:\Users\Walter\source\repos\10.factorial\obj\Debug\net8.0\10.factorial.csproj.CoreCompileInputs.cache
+C:\Users\Walter\source\repos\10.factorial\obj\Debug\net8.0\10.factorial.dll
+C:\Users\Walter\source\repos\10.factorial\obj\Debug\net8.0\refint\10.factorial.dll
+C:\Users\Walter\source\repos\10.factorial\obj\Debug\net8.0\10.factorial.pdb
+C:\Users\Walter\source\repos\10.factorial\obj\Debug\net8.0\10.factorial.genruntimeconfig.cache
+C:\Users\Walter\source\repos\10.factorial\obj\Debug\net8.0\ref\10.factorial.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QfjsBVBFbjg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\B09S305est\\source\\repos\\ParcialArreglosWalterArias\\ParcialArreglosWalterArias.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\B09S305est\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

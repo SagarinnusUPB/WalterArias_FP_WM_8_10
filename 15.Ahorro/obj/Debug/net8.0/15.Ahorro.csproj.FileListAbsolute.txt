@@ -1,0 +1,14 @@
+C:\Users\Walter\source\repos\15.Ahorro\bin\Debug\net8.0\15.Ahorro.exe
+C:\Users\Walter\source\repos\15.Ahorro\bin\Debug\net8.0\15.Ahorro.deps.json
+C:\Users\Walter\source\repos\15.Ahorro\bin\Debug\net8.0\15.Ahorro.runtimeconfig.json
+C:\Users\Walter\source\repos\15.Ahorro\bin\Debug\net8.0\15.Ahorro.dll
+C:\Users\Walter\source\repos\15.Ahorro\bin\Debug\net8.0\15.Ahorro.pdb
+C:\Users\Walter\source\repos\15.Ahorro\obj\Debug\net8.0\15.Ahorro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter\source\repos\15.Ahorro\obj\Debug\net8.0\15.Ahorro.AssemblyInfoInputs.cache
+C:\Users\Walter\source\repos\15.Ahorro\obj\Debug\net8.0\15.Ahorro.AssemblyInfo.cs
+C:\Users\Walter\source\repos\15.Ahorro\obj\Debug\net8.0\15.Ahorro.csproj.CoreCompileInputs.cache
+C:\Users\Walter\source\repos\15.Ahorro\obj\Debug\net8.0\15.Ahorro.dll
+C:\Users\Walter\source\repos\15.Ahorro\obj\Debug\net8.0\refint\15.Ahorro.dll
+C:\Users\Walter\source\repos\15.Ahorro\obj\Debug\net8.0\15.Ahorro.pdb
+C:\Users\Walter\source\repos\15.Ahorro\obj\Debug\net8.0\15.Ahorro.genruntimeconfig.cache
+C:\Users\Walter\source\repos\15.Ahorro\obj\Debug\net8.0\ref\15.Ahorro.dll

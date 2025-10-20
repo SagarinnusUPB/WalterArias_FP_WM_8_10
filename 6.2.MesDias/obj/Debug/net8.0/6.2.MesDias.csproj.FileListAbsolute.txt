@@ -1,0 +1,14 @@
+C:\Users\Walter\source\repos\6.2.MesDias\bin\Debug\net8.0\6.2.MesDias.exe
+C:\Users\Walter\source\repos\6.2.MesDias\bin\Debug\net8.0\6.2.MesDias.deps.json
+C:\Users\Walter\source\repos\6.2.MesDias\bin\Debug\net8.0\6.2.MesDias.runtimeconfig.json
+C:\Users\Walter\source\repos\6.2.MesDias\bin\Debug\net8.0\6.2.MesDias.dll
+C:\Users\Walter\source\repos\6.2.MesDias\bin\Debug\net8.0\6.2.MesDias.pdb
+C:\Users\Walter\source\repos\6.2.MesDias\obj\Debug\net8.0\6.2.MesDias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter\source\repos\6.2.MesDias\obj\Debug\net8.0\6.2.MesDias.AssemblyInfoInputs.cache
+C:\Users\Walter\source\repos\6.2.MesDias\obj\Debug\net8.0\6.2.MesDias.AssemblyInfo.cs
+C:\Users\Walter\source\repos\6.2.MesDias\obj\Debug\net8.0\6.2.MesDias.csproj.CoreCompileInputs.cache
+C:\Users\Walter\source\repos\6.2.MesDias\obj\Debug\net8.0\6.2.MesDias.dll
+C:\Users\Walter\source\repos\6.2.MesDias\obj\Debug\net8.0\refint\6.2.MesDias.dll
+C:\Users\Walter\source\repos\6.2.MesDias\obj\Debug\net8.0\6.2.MesDias.pdb
+C:\Users\Walter\source\repos\6.2.MesDias\obj\Debug\net8.0\6.2.MesDias.genruntimeconfig.cache
+C:\Users\Walter\source\repos\6.2.MesDias\obj\Debug\net8.0\ref\6.2.MesDias.dll

@@ -1,0 +1,14 @@
+C:\Users\Walter\source\repos\19.Genero\bin\Debug\net8.0\19.Genero.exe
+C:\Users\Walter\source\repos\19.Genero\bin\Debug\net8.0\19.Genero.deps.json
+C:\Users\Walter\source\repos\19.Genero\bin\Debug\net8.0\19.Genero.runtimeconfig.json
+C:\Users\Walter\source\repos\19.Genero\bin\Debug\net8.0\19.Genero.dll
+C:\Users\Walter\source\repos\19.Genero\bin\Debug\net8.0\19.Genero.pdb
+C:\Users\Walter\source\repos\19.Genero\obj\Debug\net8.0\19.Genero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter\source\repos\19.Genero\obj\Debug\net8.0\19.Genero.AssemblyInfoInputs.cache
+C:\Users\Walter\source\repos\19.Genero\obj\Debug\net8.0\19.Genero.AssemblyInfo.cs
+C:\Users\Walter\source\repos\19.Genero\obj\Debug\net8.0\19.Genero.csproj.CoreCompileInputs.cache
+C:\Users\Walter\source\repos\19.Genero\obj\Debug\net8.0\19.Genero.dll
+C:\Users\Walter\source\repos\19.Genero\obj\Debug\net8.0\refint\19.Genero.dll
+C:\Users\Walter\source\repos\19.Genero\obj\Debug\net8.0\19.Genero.pdb
+C:\Users\Walter\source\repos\19.Genero\obj\Debug\net8.0\19.Genero.genruntimeconfig.cache
+C:\Users\Walter\source\repos\19.Genero\obj\Debug\net8.0\ref\19.Genero.dll

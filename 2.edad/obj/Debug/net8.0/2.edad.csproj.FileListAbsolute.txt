@@ -1,0 +1,14 @@
+C:\Users\Walter\source\repos\2.edad\bin\Debug\net8.0\2.edad.exe
+C:\Users\Walter\source\repos\2.edad\bin\Debug\net8.0\2.edad.deps.json
+C:\Users\Walter\source\repos\2.edad\bin\Debug\net8.0\2.edad.runtimeconfig.json
+C:\Users\Walter\source\repos\2.edad\bin\Debug\net8.0\2.edad.dll
+C:\Users\Walter\source\repos\2.edad\bin\Debug\net8.0\2.edad.pdb
+C:\Users\Walter\source\repos\2.edad\obj\Debug\net8.0\2.edad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter\source\repos\2.edad\obj\Debug\net8.0\2.edad.AssemblyInfoInputs.cache
+C:\Users\Walter\source\repos\2.edad\obj\Debug\net8.0\2.edad.AssemblyInfo.cs
+C:\Users\Walter\source\repos\2.edad\obj\Debug\net8.0\2.edad.csproj.CoreCompileInputs.cache
+C:\Users\Walter\source\repos\2.edad\obj\Debug\net8.0\2.edad.dll
+C:\Users\Walter\source\repos\2.edad\obj\Debug\net8.0\refint\2.edad.dll
+C:\Users\Walter\source\repos\2.edad\obj\Debug\net8.0\2.edad.pdb
+C:\Users\Walter\source\repos\2.edad\obj\Debug\net8.0\2.edad.genruntimeconfig.cache
+C:\Users\Walter\source\repos\2.edad\obj\Debug\net8.0\ref\2.edad.dll

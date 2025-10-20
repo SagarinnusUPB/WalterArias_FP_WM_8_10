@@ -1,0 +1,14 @@
+C:\Users\Walter\source\repos\28.Clasificacion\bin\Debug\net8.0\28.Clasificacion.exe
+C:\Users\Walter\source\repos\28.Clasificacion\bin\Debug\net8.0\28.Clasificacion.deps.json
+C:\Users\Walter\source\repos\28.Clasificacion\bin\Debug\net8.0\28.Clasificacion.runtimeconfig.json
+C:\Users\Walter\source\repos\28.Clasificacion\bin\Debug\net8.0\28.Clasificacion.dll
+C:\Users\Walter\source\repos\28.Clasificacion\bin\Debug\net8.0\28.Clasificacion.pdb
+C:\Users\Walter\source\repos\28.Clasificacion\obj\Debug\net8.0\28.Clasificacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter\source\repos\28.Clasificacion\obj\Debug\net8.0\28.Clasificacion.AssemblyInfoInputs.cache
+C:\Users\Walter\source\repos\28.Clasificacion\obj\Debug\net8.0\28.Clasificacion.AssemblyInfo.cs
+C:\Users\Walter\source\repos\28.Clasificacion\obj\Debug\net8.0\28.Clasificacion.csproj.CoreCompileInputs.cache
+C:\Users\Walter\source\repos\28.Clasificacion\obj\Debug\net8.0\28.Clasificacion.dll
+C:\Users\Walter\source\repos\28.Clasificacion\obj\Debug\net8.0\refint\28.Clasificacion.dll
+C:\Users\Walter\source\repos\28.Clasificacion\obj\Debug\net8.0\28.Clasificacion.pdb
+C:\Users\Walter\source\repos\28.Clasificacion\obj\Debug\net8.0\28.Clasificacion.genruntimeconfig.cache
+C:\Users\Walter\source\repos\28.Clasificacion\obj\Debug\net8.0\ref\28.Clasificacion.dll

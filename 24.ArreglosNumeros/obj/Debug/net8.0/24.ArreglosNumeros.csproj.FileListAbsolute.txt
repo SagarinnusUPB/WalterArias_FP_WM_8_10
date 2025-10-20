@@ -1,0 +1,14 @@
+C:\Users\Walter\source\repos\24.ArreglosNumeros\bin\Debug\net8.0\24.ArreglosNumeros.exe
+C:\Users\Walter\source\repos\24.ArreglosNumeros\bin\Debug\net8.0\24.ArreglosNumeros.deps.json
+C:\Users\Walter\source\repos\24.ArreglosNumeros\bin\Debug\net8.0\24.ArreglosNumeros.runtimeconfig.json
+C:\Users\Walter\source\repos\24.ArreglosNumeros\bin\Debug\net8.0\24.ArreglosNumeros.dll
+C:\Users\Walter\source\repos\24.ArreglosNumeros\bin\Debug\net8.0\24.ArreglosNumeros.pdb
+C:\Users\Walter\source\repos\24.ArreglosNumeros\obj\Debug\net8.0\24.ArreglosNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter\source\repos\24.ArreglosNumeros\obj\Debug\net8.0\24.ArreglosNumeros.AssemblyInfoInputs.cache
+C:\Users\Walter\source\repos\24.ArreglosNumeros\obj\Debug\net8.0\24.ArreglosNumeros.AssemblyInfo.cs
+C:\Users\Walter\source\repos\24.ArreglosNumeros\obj\Debug\net8.0\24.ArreglosNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Walter\source\repos\24.ArreglosNumeros\obj\Debug\net8.0\24.ArreglosNumeros.dll
+C:\Users\Walter\source\repos\24.ArreglosNumeros\obj\Debug\net8.0\refint\24.ArreglosNumeros.dll
+C:\Users\Walter\source\repos\24.ArreglosNumeros\obj\Debug\net8.0\24.ArreglosNumeros.pdb
+C:\Users\Walter\source\repos\24.ArreglosNumeros\obj\Debug\net8.0\24.ArreglosNumeros.genruntimeconfig.cache
+C:\Users\Walter\source\repos\24.ArreglosNumeros\obj\Debug\net8.0\ref\24.ArreglosNumeros.dll

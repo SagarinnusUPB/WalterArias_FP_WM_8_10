@@ -1,0 +1,14 @@
+C:\Users\Walter\source\repos\5.comparacion\bin\Debug\net8.0\5.comparacion.exe
+C:\Users\Walter\source\repos\5.comparacion\bin\Debug\net8.0\5.comparacion.deps.json
+C:\Users\Walter\source\repos\5.comparacion\bin\Debug\net8.0\5.comparacion.runtimeconfig.json
+C:\Users\Walter\source\repos\5.comparacion\bin\Debug\net8.0\5.comparacion.dll
+C:\Users\Walter\source\repos\5.comparacion\bin\Debug\net8.0\5.comparacion.pdb
+C:\Users\Walter\source\repos\5.comparacion\obj\Debug\net8.0\5.comparacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter\source\repos\5.comparacion\obj\Debug\net8.0\5.comparacion.AssemblyInfoInputs.cache
+C:\Users\Walter\source\repos\5.comparacion\obj\Debug\net8.0\5.comparacion.AssemblyInfo.cs
+C:\Users\Walter\source\repos\5.comparacion\obj\Debug\net8.0\5.comparacion.csproj.CoreCompileInputs.cache
+C:\Users\Walter\source\repos\5.comparacion\obj\Debug\net8.0\5.comparacion.dll
+C:\Users\Walter\source\repos\5.comparacion\obj\Debug\net8.0\refint\5.comparacion.dll
+C:\Users\Walter\source\repos\5.comparacion\obj\Debug\net8.0\5.comparacion.pdb
+C:\Users\Walter\source\repos\5.comparacion\obj\Debug\net8.0\5.comparacion.genruntimeconfig.cache
+C:\Users\Walter\source\repos\5.comparacion\obj\Debug\net8.0\ref\5.comparacion.dll

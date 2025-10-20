@@ -1,0 +1,14 @@
+C:\Users\Walter\source\repos\17.TablaMultiplicar\bin\Debug\net8.0\17.TablaMultiplicar.exe
+C:\Users\Walter\source\repos\17.TablaMultiplicar\bin\Debug\net8.0\17.TablaMultiplicar.deps.json
+C:\Users\Walter\source\repos\17.TablaMultiplicar\bin\Debug\net8.0\17.TablaMultiplicar.runtimeconfig.json
+C:\Users\Walter\source\repos\17.TablaMultiplicar\bin\Debug\net8.0\17.TablaMultiplicar.dll
+C:\Users\Walter\source\repos\17.TablaMultiplicar\bin\Debug\net8.0\17.TablaMultiplicar.pdb
+C:\Users\Walter\source\repos\17.TablaMultiplicar\obj\Debug\net8.0\17.TablaMultiplicar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter\source\repos\17.TablaMultiplicar\obj\Debug\net8.0\17.TablaMultiplicar.AssemblyInfoInputs.cache
+C:\Users\Walter\source\repos\17.TablaMultiplicar\obj\Debug\net8.0\17.TablaMultiplicar.AssemblyInfo.cs
+C:\Users\Walter\source\repos\17.TablaMultiplicar\obj\Debug\net8.0\17.TablaMultiplicar.csproj.CoreCompileInputs.cache
+C:\Users\Walter\source\repos\17.TablaMultiplicar\obj\Debug\net8.0\17.TablaMultiplicar.dll
+C:\Users\Walter\source\repos\17.TablaMultiplicar\obj\Debug\net8.0\refint\17.TablaMultiplicar.dll
+C:\Users\Walter\source\repos\17.TablaMultiplicar\obj\Debug\net8.0\17.TablaMultiplicar.pdb
+C:\Users\Walter\source\repos\17.TablaMultiplicar\obj\Debug\net8.0\17.TablaMultiplicar.genruntimeconfig.cache
+C:\Users\Walter\source\repos\17.TablaMultiplicar\obj\Debug\net8.0\ref\17.TablaMultiplicar.dll

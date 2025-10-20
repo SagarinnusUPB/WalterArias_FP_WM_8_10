@@ -1,0 +1,14 @@
+C:\Users\Walter\source\repos\7.ternario\bin\Debug\net8.0\7.ternario.exe
+C:\Users\Walter\source\repos\7.ternario\bin\Debug\net8.0\7.ternario.deps.json
+C:\Users\Walter\source\repos\7.ternario\bin\Debug\net8.0\7.ternario.runtimeconfig.json
+C:\Users\Walter\source\repos\7.ternario\bin\Debug\net8.0\7.ternario.dll
+C:\Users\Walter\source\repos\7.ternario\bin\Debug\net8.0\7.ternario.pdb
+C:\Users\Walter\source\repos\7.ternario\obj\Debug\net8.0\7.ternario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter\source\repos\7.ternario\obj\Debug\net8.0\7.ternario.AssemblyInfoInputs.cache
+C:\Users\Walter\source\repos\7.ternario\obj\Debug\net8.0\7.ternario.AssemblyInfo.cs
+C:\Users\Walter\source\repos\7.ternario\obj\Debug\net8.0\7.ternario.csproj.CoreCompileInputs.cache
+C:\Users\Walter\source\repos\7.ternario\obj\Debug\net8.0\7.ternario.dll
+C:\Users\Walter\source\repos\7.ternario\obj\Debug\net8.0\refint\7.ternario.dll
+C:\Users\Walter\source\repos\7.ternario\obj\Debug\net8.0\7.ternario.pdb
+C:\Users\Walter\source\repos\7.ternario\obj\Debug\net8.0\7.ternario.genruntimeconfig.cache
+C:\Users\Walter\source\repos\7.ternario\obj\Debug\net8.0\ref\7.ternario.dll

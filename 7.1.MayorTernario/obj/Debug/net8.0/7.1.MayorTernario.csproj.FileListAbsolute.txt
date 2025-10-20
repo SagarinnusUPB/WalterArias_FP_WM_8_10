@@ -1,0 +1,14 @@
+C:\Users\Walter\source\repos\7.1.MayorTernario\bin\Debug\net8.0\7.1.MayorTernario.exe
+C:\Users\Walter\source\repos\7.1.MayorTernario\bin\Debug\net8.0\7.1.MayorTernario.deps.json
+C:\Users\Walter\source\repos\7.1.MayorTernario\bin\Debug\net8.0\7.1.MayorTernario.runtimeconfig.json
+C:\Users\Walter\source\repos\7.1.MayorTernario\bin\Debug\net8.0\7.1.MayorTernario.dll
+C:\Users\Walter\source\repos\7.1.MayorTernario\bin\Debug\net8.0\7.1.MayorTernario.pdb
+C:\Users\Walter\source\repos\7.1.MayorTernario\obj\Debug\net8.0\7.1.MayorTernario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter\source\repos\7.1.MayorTernario\obj\Debug\net8.0\7.1.MayorTernario.AssemblyInfoInputs.cache
+C:\Users\Walter\source\repos\7.1.MayorTernario\obj\Debug\net8.0\7.1.MayorTernario.AssemblyInfo.cs
+C:\Users\Walter\source\repos\7.1.MayorTernario\obj\Debug\net8.0\7.1.MayorTernario.csproj.CoreCompileInputs.cache
+C:\Users\Walter\source\repos\7.1.MayorTernario\obj\Debug\net8.0\7.1.MayorTernario.dll
+C:\Users\Walter\source\repos\7.1.MayorTernario\obj\Debug\net8.0\refint\7.1.MayorTernario.dll
+C:\Users\Walter\source\repos\7.1.MayorTernario\obj\Debug\net8.0\7.1.MayorTernario.pdb
+C:\Users\Walter\source\repos\7.1.MayorTernario\obj\Debug\net8.0\7.1.MayorTernario.genruntimeconfig.cache
+C:\Users\Walter\source\repos\7.1.MayorTernario\obj\Debug\net8.0\ref\7.1.MayorTernario.dll

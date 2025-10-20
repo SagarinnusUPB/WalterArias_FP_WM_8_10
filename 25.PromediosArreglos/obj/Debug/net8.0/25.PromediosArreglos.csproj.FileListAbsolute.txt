@@ -1,0 +1,14 @@
+C:\Users\Walter\source\repos\25.PromediosArreglos\bin\Debug\net8.0\25.PromediosArreglos.exe
+C:\Users\Walter\source\repos\25.PromediosArreglos\bin\Debug\net8.0\25.PromediosArreglos.deps.json
+C:\Users\Walter\source\repos\25.PromediosArreglos\bin\Debug\net8.0\25.PromediosArreglos.runtimeconfig.json
+C:\Users\Walter\source\repos\25.PromediosArreglos\bin\Debug\net8.0\25.PromediosArreglos.dll
+C:\Users\Walter\source\repos\25.PromediosArreglos\bin\Debug\net8.0\25.PromediosArreglos.pdb
+C:\Users\Walter\source\repos\25.PromediosArreglos\obj\Debug\net8.0\25.PromediosArreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter\source\repos\25.PromediosArreglos\obj\Debug\net8.0\25.PromediosArreglos.AssemblyInfoInputs.cache
+C:\Users\Walter\source\repos\25.PromediosArreglos\obj\Debug\net8.0\25.PromediosArreglos.AssemblyInfo.cs
+C:\Users\Walter\source\repos\25.PromediosArreglos\obj\Debug\net8.0\25.PromediosArreglos.csproj.CoreCompileInputs.cache
+C:\Users\Walter\source\repos\25.PromediosArreglos\obj\Debug\net8.0\25.PromediosArreglos.dll
+C:\Users\Walter\source\repos\25.PromediosArreglos\obj\Debug\net8.0\refint\25.PromediosArreglos.dll
+C:\Users\Walter\source\repos\25.PromediosArreglos\obj\Debug\net8.0\25.PromediosArreglos.pdb
+C:\Users\Walter\source\repos\25.PromediosArreglos\obj\Debug\net8.0\25.PromediosArreglos.genruntimeconfig.cache
+C:\Users\Walter\source\repos\25.PromediosArreglos\obj\Debug\net8.0\ref\25.PromediosArreglos.dll

@@ -1,0 +1,14 @@
+C:\Users\Walter\source\repos\12.Primeros99Numeros\bin\Debug\net8.0\12.Primeros99Numeros.exe
+C:\Users\Walter\source\repos\12.Primeros99Numeros\bin\Debug\net8.0\12.Primeros99Numeros.deps.json
+C:\Users\Walter\source\repos\12.Primeros99Numeros\bin\Debug\net8.0\12.Primeros99Numeros.runtimeconfig.json
+C:\Users\Walter\source\repos\12.Primeros99Numeros\bin\Debug\net8.0\12.Primeros99Numeros.dll
+C:\Users\Walter\source\repos\12.Primeros99Numeros\bin\Debug\net8.0\12.Primeros99Numeros.pdb
+C:\Users\Walter\source\repos\12.Primeros99Numeros\obj\Debug\net8.0\12.Primeros99Numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter\source\repos\12.Primeros99Numeros\obj\Debug\net8.0\12.Primeros99Numeros.AssemblyInfoInputs.cache
+C:\Users\Walter\source\repos\12.Primeros99Numeros\obj\Debug\net8.0\12.Primeros99Numeros.AssemblyInfo.cs
+C:\Users\Walter\source\repos\12.Primeros99Numeros\obj\Debug\net8.0\12.Primeros99Numeros.csproj.CoreCompileInputs.cache
+C:\Users\Walter\source\repos\12.Primeros99Numeros\obj\Debug\net8.0\12.Primeros99Numeros.dll
+C:\Users\Walter\source\repos\12.Primeros99Numeros\obj\Debug\net8.0\refint\12.Primeros99Numeros.dll
+C:\Users\Walter\source\repos\12.Primeros99Numeros\obj\Debug\net8.0\12.Primeros99Numeros.pdb
+C:\Users\Walter\source\repos\12.Primeros99Numeros\obj\Debug\net8.0\12.Primeros99Numeros.genruntimeconfig.cache
+C:\Users\Walter\source\repos\12.Primeros99Numeros\obj\Debug\net8.0\ref\12.Primeros99Numeros.dll

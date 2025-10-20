@@ -1,0 +1,14 @@
+C:\Users\Walter\source\repos\27.ArreglosMatrices\bin\Debug\net8.0\27.ArreglosMatrices.exe
+C:\Users\Walter\source\repos\27.ArreglosMatrices\bin\Debug\net8.0\27.ArreglosMatrices.deps.json
+C:\Users\Walter\source\repos\27.ArreglosMatrices\bin\Debug\net8.0\27.ArreglosMatrices.runtimeconfig.json
+C:\Users\Walter\source\repos\27.ArreglosMatrices\bin\Debug\net8.0\27.ArreglosMatrices.dll
+C:\Users\Walter\source\repos\27.ArreglosMatrices\bin\Debug\net8.0\27.ArreglosMatrices.pdb
+C:\Users\Walter\source\repos\27.ArreglosMatrices\obj\Debug\net8.0\27.ArreglosMatrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter\source\repos\27.ArreglosMatrices\obj\Debug\net8.0\27.ArreglosMatrices.AssemblyInfoInputs.cache
+C:\Users\Walter\source\repos\27.ArreglosMatrices\obj\Debug\net8.0\27.ArreglosMatrices.AssemblyInfo.cs
+C:\Users\Walter\source\repos\27.ArreglosMatrices\obj\Debug\net8.0\27.ArreglosMatrices.csproj.CoreCompileInputs.cache
+C:\Users\Walter\source\repos\27.ArreglosMatrices\obj\Debug\net8.0\27.ArreglosMatrices.dll
+C:\Users\Walter\source\repos\27.ArreglosMatrices\obj\Debug\net8.0\refint\27.ArreglosMatrices.dll
+C:\Users\Walter\source\repos\27.ArreglosMatrices\obj\Debug\net8.0\27.ArreglosMatrices.pdb
+C:\Users\Walter\source\repos\27.ArreglosMatrices\obj\Debug\net8.0\27.ArreglosMatrices.genruntimeconfig.cache
+C:\Users\Walter\source\repos\27.ArreglosMatrices\obj\Debug\net8.0\ref\27.ArreglosMatrices.dll

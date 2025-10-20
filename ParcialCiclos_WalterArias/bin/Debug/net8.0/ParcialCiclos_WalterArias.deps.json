@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ParcialCiclos_WalterArias/1.0.0": {
+        "runtime": {
+          "ParcialCiclos_WalterArias.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ParcialCiclos_WalterArias/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

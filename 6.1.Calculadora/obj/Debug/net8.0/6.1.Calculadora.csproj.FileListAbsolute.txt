@@ -1,0 +1,14 @@
+C:\Users\Walter\source\repos\6.1.Calculadora\bin\Debug\net8.0\6.1.Calculadora.exe
+C:\Users\Walter\source\repos\6.1.Calculadora\bin\Debug\net8.0\6.1.Calculadora.deps.json
+C:\Users\Walter\source\repos\6.1.Calculadora\bin\Debug\net8.0\6.1.Calculadora.runtimeconfig.json
+C:\Users\Walter\source\repos\6.1.Calculadora\bin\Debug\net8.0\6.1.Calculadora.dll
+C:\Users\Walter\source\repos\6.1.Calculadora\bin\Debug\net8.0\6.1.Calculadora.pdb
+C:\Users\Walter\source\repos\6.1.Calculadora\obj\Debug\net8.0\6.1.Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter\source\repos\6.1.Calculadora\obj\Debug\net8.0\6.1.Calculadora.AssemblyInfoInputs.cache
+C:\Users\Walter\source\repos\6.1.Calculadora\obj\Debug\net8.0\6.1.Calculadora.AssemblyInfo.cs
+C:\Users\Walter\source\repos\6.1.Calculadora\obj\Debug\net8.0\6.1.Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Walter\source\repos\6.1.Calculadora\obj\Debug\net8.0\6.1.Calculadora.dll
+C:\Users\Walter\source\repos\6.1.Calculadora\obj\Debug\net8.0\refint\6.1.Calculadora.dll
+C:\Users\Walter\source\repos\6.1.Calculadora\obj\Debug\net8.0\6.1.Calculadora.pdb
+C:\Users\Walter\source\repos\6.1.Calculadora\obj\Debug\net8.0\6.1.Calculadora.genruntimeconfig.cache
+C:\Users\Walter\source\repos\6.1.Calculadora\obj\Debug\net8.0\ref\6.1.Calculadora.dll

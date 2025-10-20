@@ -1,0 +1,14 @@
+C:\Users\Walter\source\repos\4.web\bin\Debug\net8.0\4.web.exe
+C:\Users\Walter\source\repos\4.web\bin\Debug\net8.0\4.web.deps.json
+C:\Users\Walter\source\repos\4.web\bin\Debug\net8.0\4.web.runtimeconfig.json
+C:\Users\Walter\source\repos\4.web\bin\Debug\net8.0\4.web.dll
+C:\Users\Walter\source\repos\4.web\bin\Debug\net8.0\4.web.pdb
+C:\Users\Walter\source\repos\4.web\obj\Debug\net8.0\4.web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter\source\repos\4.web\obj\Debug\net8.0\4.web.AssemblyInfoInputs.cache
+C:\Users\Walter\source\repos\4.web\obj\Debug\net8.0\4.web.AssemblyInfo.cs
+C:\Users\Walter\source\repos\4.web\obj\Debug\net8.0\4.web.csproj.CoreCompileInputs.cache
+C:\Users\Walter\source\repos\4.web\obj\Debug\net8.0\4.web.dll
+C:\Users\Walter\source\repos\4.web\obj\Debug\net8.0\refint\4.web.dll
+C:\Users\Walter\source\repos\4.web\obj\Debug\net8.0\4.web.pdb
+C:\Users\Walter\source\repos\4.web\obj\Debug\net8.0\4.web.genruntimeconfig.cache
+C:\Users\Walter\source\repos\4.web\obj\Debug\net8.0\ref\4.web.dll

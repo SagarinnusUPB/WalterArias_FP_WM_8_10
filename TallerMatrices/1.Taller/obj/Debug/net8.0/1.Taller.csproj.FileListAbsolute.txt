@@ -1,0 +1,14 @@
+C:\Users\Walter\source\repos\TallerMatrices\1.Taller\bin\Debug\net8.0\1.Taller.exe
+C:\Users\Walter\source\repos\TallerMatrices\1.Taller\bin\Debug\net8.0\1.Taller.deps.json
+C:\Users\Walter\source\repos\TallerMatrices\1.Taller\bin\Debug\net8.0\1.Taller.runtimeconfig.json
+C:\Users\Walter\source\repos\TallerMatrices\1.Taller\bin\Debug\net8.0\1.Taller.dll
+C:\Users\Walter\source\repos\TallerMatrices\1.Taller\bin\Debug\net8.0\1.Taller.pdb
+C:\Users\Walter\source\repos\TallerMatrices\1.Taller\obj\Debug\net8.0\1.Taller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter\source\repos\TallerMatrices\1.Taller\obj\Debug\net8.0\1.Taller.AssemblyInfoInputs.cache
+C:\Users\Walter\source\repos\TallerMatrices\1.Taller\obj\Debug\net8.0\1.Taller.AssemblyInfo.cs
+C:\Users\Walter\source\repos\TallerMatrices\1.Taller\obj\Debug\net8.0\1.Taller.csproj.CoreCompileInputs.cache
+C:\Users\Walter\source\repos\TallerMatrices\1.Taller\obj\Debug\net8.0\1.Taller.dll
+C:\Users\Walter\source\repos\TallerMatrices\1.Taller\obj\Debug\net8.0\refint\1.Taller.dll
+C:\Users\Walter\source\repos\TallerMatrices\1.Taller\obj\Debug\net8.0\1.Taller.pdb
+C:\Users\Walter\source\repos\TallerMatrices\1.Taller\obj\Debug\net8.0\1.Taller.genruntimeconfig.cache
+C:\Users\Walter\source\repos\TallerMatrices\1.Taller\obj\Debug\net8.0\ref\1.Taller.dll

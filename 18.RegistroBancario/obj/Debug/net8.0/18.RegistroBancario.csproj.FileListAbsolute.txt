@@ -1,0 +1,14 @@
+C:\Users\Walter\source\repos\18.RegistroBancario\bin\Debug\net8.0\18.RegistroBancario.exe
+C:\Users\Walter\source\repos\18.RegistroBancario\bin\Debug\net8.0\18.RegistroBancario.deps.json
+C:\Users\Walter\source\repos\18.RegistroBancario\bin\Debug\net8.0\18.RegistroBancario.runtimeconfig.json
+C:\Users\Walter\source\repos\18.RegistroBancario\bin\Debug\net8.0\18.RegistroBancario.dll
+C:\Users\Walter\source\repos\18.RegistroBancario\bin\Debug\net8.0\18.RegistroBancario.pdb
+C:\Users\Walter\source\repos\18.RegistroBancario\obj\Debug\net8.0\18.RegistroBancario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter\source\repos\18.RegistroBancario\obj\Debug\net8.0\18.RegistroBancario.AssemblyInfoInputs.cache
+C:\Users\Walter\source\repos\18.RegistroBancario\obj\Debug\net8.0\18.RegistroBancario.AssemblyInfo.cs
+C:\Users\Walter\source\repos\18.RegistroBancario\obj\Debug\net8.0\18.RegistroBancario.csproj.CoreCompileInputs.cache
+C:\Users\Walter\source\repos\18.RegistroBancario\obj\Debug\net8.0\18.RegistroBancario.dll
+C:\Users\Walter\source\repos\18.RegistroBancario\obj\Debug\net8.0\refint\18.RegistroBancario.dll
+C:\Users\Walter\source\repos\18.RegistroBancario\obj\Debug\net8.0\18.RegistroBancario.pdb
+C:\Users\Walter\source\repos\18.RegistroBancario\obj\Debug\net8.0\18.RegistroBancario.genruntimeconfig.cache
+C:\Users\Walter\source\repos\18.RegistroBancario\obj\Debug\net8.0\ref\18.RegistroBancario.dll

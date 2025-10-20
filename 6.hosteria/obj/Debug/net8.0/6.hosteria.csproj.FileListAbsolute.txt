@@ -1,0 +1,14 @@
+C:\Users\Walter\source\repos\6.hosteria\bin\Debug\net8.0\6.hosteria.exe
+C:\Users\Walter\source\repos\6.hosteria\bin\Debug\net8.0\6.hosteria.deps.json
+C:\Users\Walter\source\repos\6.hosteria\bin\Debug\net8.0\6.hosteria.runtimeconfig.json
+C:\Users\Walter\source\repos\6.hosteria\bin\Debug\net8.0\6.hosteria.dll
+C:\Users\Walter\source\repos\6.hosteria\bin\Debug\net8.0\6.hosteria.pdb
+C:\Users\Walter\source\repos\6.hosteria\obj\Debug\net8.0\6.hosteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter\source\repos\6.hosteria\obj\Debug\net8.0\6.hosteria.AssemblyInfoInputs.cache
+C:\Users\Walter\source\repos\6.hosteria\obj\Debug\net8.0\6.hosteria.AssemblyInfo.cs
+C:\Users\Walter\source\repos\6.hosteria\obj\Debug\net8.0\6.hosteria.csproj.CoreCompileInputs.cache
+C:\Users\Walter\source\repos\6.hosteria\obj\Debug\net8.0\6.hosteria.dll
+C:\Users\Walter\source\repos\6.hosteria\obj\Debug\net8.0\refint\6.hosteria.dll
+C:\Users\Walter\source\repos\6.hosteria\obj\Debug\net8.0\6.hosteria.pdb
+C:\Users\Walter\source\repos\6.hosteria\obj\Debug\net8.0\6.hosteria.genruntimeconfig.cache
+C:\Users\Walter\source\repos\6.hosteria\obj\Debug\net8.0\ref\6.hosteria.dll
