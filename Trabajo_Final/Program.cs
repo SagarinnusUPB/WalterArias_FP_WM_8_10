@@ -34,10 +34,12 @@
             bool salir = false;
             while (!salir)
             {
+                // Anna Ruiz
+
                 Console.Clear();
                 Console.WriteLine("======================================================");
                 Console.WriteLine("  Sistema de Gestión de Mantenimiento de Vehículos");
-                Console.WriteLine("  Taller Anna y Walter");
+                Console.WriteLine("  Taller de Anna y Walter");
                 Console.WriteLine("======================================================");
                 Console.WriteLine("1. Gestión de vehículos");
                 Console.WriteLine("2. Gestión de clientes");
@@ -73,6 +75,8 @@
         //__________________________________________________________________________________________________
         public static void GestionarVehiculos()
         {
+            // Walter Arias
+
             bool volver = false;
             while (!volver)
             {
@@ -117,6 +121,8 @@
 
         public static void RegistrarVehiculo()
         {
+            // Walter Arias
+
             Console.Clear();
             Console.WriteLine("Registrar Nuevo Vehículo");
 
@@ -153,6 +159,8 @@
 
         public static void VerListaVehiculos()
         {
+            // Anna Ruiz
+
             Console.Clear();
             Console.WriteLine("Lista de Vehículos Registrados");
 
@@ -176,6 +184,8 @@
 
         public static void EditarVehiculo()
         {
+            // Walter Arias
+
             Console.Clear();
             Console.WriteLine("Editar Información de Vehículo");
 
@@ -216,6 +226,8 @@
 
         public static void AsignarVehiculoACliente()
         {
+            // Anna Ruiz
+
             Console.Clear();
             Console.WriteLine("Asignar Vehículo a Cliente");
 
@@ -252,6 +264,8 @@
 
         public static void VerVehiculosPorCliente()
         {
+            // Walter Arias
+
             Console.Clear();
             Console.WriteLine("Ver Vehículos de un Cliente");
 
@@ -294,7 +308,9 @@
         //_______________________________________________________________________________________
 
         public static void GestionarClientes()
-        {
+        {                
+            // Anna Ruiz
+
             bool volver = false;
             while (!volver)
             {
@@ -331,6 +347,8 @@
 
         public static void RegistrarCliente()
         {
+            // Anna Ruiz
+
             Console.Clear();
             Console.WriteLine("Registrar Nuevo Cliente");
 
@@ -364,6 +382,8 @@
 
         public static void VerListaClientes()
         {
+            // Walter Arias
+
             Console.Clear();
             Console.WriteLine("Lista de Todos los Clientes");
 
@@ -386,6 +406,8 @@
 
         public static void EditarCliente()
         {
+            // Anna Ruiz
+
             Console.Clear();
             Console.WriteLine("Editar Información de un Cliente");
 
@@ -421,6 +443,8 @@
         //___________________________________________________________________________________________________________
         public static void GestionarServicios()
         {
+            // Walter Arias
+
             bool volver = false;
             while (!volver)
             {
@@ -458,6 +482,8 @@
 
         public static void RegistrarServicio()
         {
+            // Walter Arias
+
             Console.Clear();
             Console.WriteLine("Registrar Servicio de Mantenimiento");
 
@@ -499,6 +525,8 @@
 
         public static void VerHistorialPorVehiculo()
         {
+            // Anna Ruiz
+
             Console.Clear();
             Console.WriteLine("Historial de Servicios por Vehículo");
 
@@ -534,10 +562,12 @@
 
         public static void VerResumenTotal()
         {
+            // Walter Arias
+
             Console.Clear();
             Console.WriteLine("Resumen de Servicios de Todos los Vehículos");
 
-        if (numVehiculos == 0)
+            if (numVehiculos == 0)
             {
                 Console.WriteLine("No hay vehículos registrados para mostrar servicios.");
                 return;
@@ -576,6 +606,8 @@
 
         public static int BuscarClientePorCedula(string cedula)
         {
+            // Walter Arias
+
             for (int i = 0; i < numClientes; i++)
             {
                 if (cedulasClientes[i] == cedula)
@@ -588,6 +620,8 @@
 
         public static int BuscarVehiculoPorPlaca(string placa)
         {
+            // Walter Arias
+
             for (int i = 0; i < numVehiculos; i++)
             {
                 if (placasVehiculos[i] == placa)
@@ -600,6 +634,7 @@
 
         public static string LeerEntrada(string mensaje)
         {
+            // Anna Ruiz
             string entrada = "";
             Console.Write(mensaje);
             entrada = Console.ReadLine().Trim(); // Eliminar espacios en blanco al inicio y al final
@@ -608,6 +643,7 @@
 
         public static void Pausar()
         {
+            // Anna Ruiz
             Console.WriteLine("\nPresione Enter para continuar...");
             Console.ReadLine();
         }
