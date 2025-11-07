@@ -1,0 +1,14 @@
+C:\Users\Walter\source\repos\Trabajo_Final\bin\Debug\net8.0\Trabajo_Final.exe
+C:\Users\Walter\source\repos\Trabajo_Final\bin\Debug\net8.0\Trabajo_Final.deps.json
+C:\Users\Walter\source\repos\Trabajo_Final\bin\Debug\net8.0\Trabajo_Final.runtimeconfig.json
+C:\Users\Walter\source\repos\Trabajo_Final\bin\Debug\net8.0\Trabajo_Final.dll
+C:\Users\Walter\source\repos\Trabajo_Final\bin\Debug\net8.0\Trabajo_Final.pdb
+C:\Users\Walter\source\repos\Trabajo_Final\obj\Debug\net8.0\Trabajo_Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter\source\repos\Trabajo_Final\obj\Debug\net8.0\Trabajo_Final.AssemblyInfoInputs.cache
+C:\Users\Walter\source\repos\Trabajo_Final\obj\Debug\net8.0\Trabajo_Final.AssemblyInfo.cs
+C:\Users\Walter\source\repos\Trabajo_Final\obj\Debug\net8.0\Trabajo_Final.csproj.CoreCompileInputs.cache
+C:\Users\Walter\source\repos\Trabajo_Final\obj\Debug\net8.0\Trabajo_Final.dll
+C:\Users\Walter\source\repos\Trabajo_Final\obj\Debug\net8.0\refint\Trabajo_Final.dll
+C:\Users\Walter\source\repos\Trabajo_Final\obj\Debug\net8.0\Trabajo_Final.pdb
+C:\Users\Walter\source\repos\Trabajo_Final\obj\Debug\net8.0\Trabajo_Final.genruntimeconfig.cache
+C:\Users\Walter\source\repos\Trabajo_Final\obj\Debug\net8.0\ref\Trabajo_Final.dll
